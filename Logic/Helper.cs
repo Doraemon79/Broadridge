@@ -1,5 +1,4 @@
 ﻿using DictionaryOrder_multicore.Logic.Interfaces;
-using System.Collections.Concurrent;
 
 namespace DictionaryOrder_multicore.Logic
 {
@@ -11,11 +10,11 @@ namespace DictionaryOrder_multicore.Logic
             return words;
         }
 
-        public void FlushOutput(ConcurrentDictionary<string, int> wordsbyFrequecy)
+        public void FlushOutput(List<KeyValuePair<string, int>> wordsbyFrequecy)
         {
             string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             string fileName = Path.Combine(docPath, "Broadridge.txt");
-            using (StreamWriter writer = new StreamWriter(docPath))
+            using (StreamWriter writer = new StreamWriter(fileName))
             {
                 foreach (var word in wordsbyFrequecy)
                 {

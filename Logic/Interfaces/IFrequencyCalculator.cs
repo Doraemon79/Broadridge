@@ -1,9 +1,7 @@
-﻿using System.Collections.Concurrent;
-
-namespace DictionaryOrder_multicore.Logic.Interfaces
+﻿namespace DictionaryOrder_multicore.Logic.Interfaces
 {
     public interface IFrequencyCalculator
     {
-        ConcurrentDictionary<string, int> WordFrequencyCalculator(string[] words);
+        List<KeyValuePair<string, int>> WordFrequencyCalculator(string[] words);
     }
 }

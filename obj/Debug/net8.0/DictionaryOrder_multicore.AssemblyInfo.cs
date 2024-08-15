@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DictionaryOrder_multicore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1408bf4c5f47616dba861ef49c435699011405")]
 [assembly: System.Reflection.AssemblyProductAttribute("DictionaryOrder_multicore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DictionaryOrder_multicore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

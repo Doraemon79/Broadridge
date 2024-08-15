@@ -7,7 +7,7 @@ namespace DictionaryOrder_multicore.Logic
     public class FrequecyCalculator : IFrequencyCalculator
     {
         private readonly MemoryCache wordCache = MemoryCache.Default;
-        public ConcurrentDictionary<string, int> WordFrequencyCalculator(string[] words)
+        public List<KeyValuePair<string, int>> WordFrequencyCalculator(string[] words)
         {
 
             var wordsByFrequency = new ConcurrentDictionary<string, int>(StringComparer.OrdinalIgnoreCase);
@@ -32,7 +32,7 @@ namespace DictionaryOrder_multicore.Logic
             });
 
 
-            return wordsByFrequency;
+            return wordsByFrequency.OrderBy(x => x.Key).ThenBy(x => x.Value).ToList();
         }
 
 

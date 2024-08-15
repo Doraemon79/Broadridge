@@ -1,29 +1,35 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repos\\DictionaryOrder_multicore\\",
+  "WorkspaceRootPath": "C:\\Repos\\Broadridge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\dictionaryorder_multicore\\logic\\interfaces\\ifrequencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\interfaces\\ifrequencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{067FCB94-2DF1-415B-B96E-CCB3E01723A9}|..\\Benchmark\\Benchmark.csproj|c:\\repos\\benchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\dictionaryorder_multicore\\logic\\frequecycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\frequecycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{067FCB94-2DF1-415B-B96E-CCB3E01723A9}|..\\Benchmark\\Benchmark.csproj|c:\\repos\\benchmark\\benchmarkmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\dictionaryorder_multicore\\logic\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\broadridge\\logic\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\dictionaryorder_multicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\broadridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\dictionaryorder_multicore\\logic\\interfaces\\ihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\broadridge\\logic\\frequecycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\frequecycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\broadridge\\logic\\interfaces\\ihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\interfaces\\ihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1233EFB2-3107-48EC-8989-6B8C72E45969}|..\\DictionaryOrder_multicore_Test\\DictionaryOrder_multicore_Test.csproj|c:\\repos\\dictionaryorder_multicore_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|c:\\repos\\broadridge\\logic\\interfaces\\ifrequencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}|DictionaryOrder_multicore.csproj|solutionrelative:logic\\interfaces\\ifrequencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,13 +63,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "BenchmarkMethods.cs",
+              "DocumentMoniker": "C:\\Repos\\Benchmark\\BenchmarkMethods.cs",
+              "RelativeDocumentMoniker": "..\\Benchmark\\BenchmarkMethods.cs",
+              "ToolTip": "C:\\Repos\\Benchmark\\BenchmarkMethods.cs",
+              "RelativeToolTip": "..\\Benchmark\\BenchmarkMethods.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:09:45.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\Benchmark\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Benchmark\\Program.cs",
+              "ToolTip": "C:\\Repos\\Benchmark\\Program.cs",
+              "RelativeToolTip": "..\\Benchmark\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:05:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IHelper.cs",
-              "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Interfaces\\IHelper.cs",
+              "DocumentMoniker": "C:\\Repos\\Broadridge\\Logic\\Interfaces\\IHelper.cs",
               "RelativeDocumentMoniker": "Logic\\Interfaces\\IHelper.cs",
-              "ToolTip": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Interfaces\\IHelper.cs",
+              "ToolTip": "C:\\Repos\\Broadridge\\Logic\\Interfaces\\IHelper.cs",
               "RelativeToolTip": "Logic\\Interfaces\\IHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T13:30:04.708Z",
               "EditorCaption": ""
@@ -72,50 +104,50 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Helper.cs",
+              "DocumentMoniker": "C:\\Repos\\Broadridge\\Logic\\Helper.cs",
               "RelativeDocumentMoniker": "Logic\\Helper.cs",
-              "ToolTip": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Helper.cs",
+              "ToolTip": "C:\\Repos\\Broadridge\\Logic\\Helper.cs",
               "RelativeToolTip": "Logic\\Helper.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowA8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T13:28:06.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "IFrequencyCalculator.cs",
-              "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Interfaces\\IFrequencyCalculator.cs",
+              "DocumentMoniker": "C:\\Repos\\Broadridge\\Logic\\Interfaces\\IFrequencyCalculator.cs",
               "RelativeDocumentMoniker": "Logic\\Interfaces\\IFrequencyCalculator.cs",
-              "ToolTip": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\Interfaces\\IFrequencyCalculator.cs",
+              "ToolTip": "C:\\Repos\\Broadridge\\Logic\\Interfaces\\IFrequencyCalculator.cs",
               "RelativeToolTip": "Logic\\Interfaces\\IFrequencyCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T10:17:29.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrequecyCalculator.cs",
-              "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\FrequecyCalculator.cs",
+              "DocumentMoniker": "C:\\Repos\\Broadridge\\Logic\\FrequecyCalculator.cs",
               "RelativeDocumentMoniker": "Logic\\FrequecyCalculator.cs",
-              "ToolTip": "C:\\Repos\\DictionaryOrder_multicore\\Logic\\FrequecyCalculator.cs",
+              "ToolTip": "C:\\Repos\\Broadridge\\Logic\\FrequecyCalculator.cs",
               "RelativeToolTip": "Logic\\FrequecyCalculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAmAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T10:17:06.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore_Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\DictionaryOrder_multicore_Test\\UnitTest1.cs",
               "ToolTip": "C:\\Repos\\DictionaryOrder_multicore_Test\\UnitTest1.cs",
               "RelativeToolTip": "..\\DictionaryOrder_multicore_Test\\UnitTest1.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA9wDYAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T10:14:12.609Z",
               "EditorCaption": ""
@@ -124,11 +156,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\DictionaryOrder_multicore\\Program.cs",
+              "DocumentMoniker": "C:\\Repos\\Broadridge\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Repos\\DictionaryOrder_multicore\\Program.cs",
+              "ToolTip": "C:\\Repos\\Broadridge\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA8wBoAAAAxAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAEwBoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T09:47:25.908Z",
               "EditorCaption": ""

@@ -1916,11 +1916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\DictionaryOrder_multicore\\DictionaryOrder_multicore.csproj",
+      "projectUniqueName": "C:\\Repos\\Broadridge\\DictionaryOrder_multicore.csproj",
       "projectName": "DictionaryOrder_multicore",
-      "projectPath": "C:\\Repos\\DictionaryOrder_multicore\\DictionaryOrder_multicore.csproj",
+      "projectPath": "C:\\Repos\\Broadridge\\DictionaryOrder_multicore.csproj",
       "packagesPath": "C:\\Users\\ignle\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\DictionaryOrder_multicore\\obj\\",
+      "outputPath": "C:\\Repos\\Broadridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

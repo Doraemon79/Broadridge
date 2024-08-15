@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOrder_multicore", "DictionaryOrder_multicore.csproj", "{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryOrder_multicore", "DictionaryOrder_multicore.csproj", "{FFA08BFD-F9E3-4DD4-A96F-3D46BC3256C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOrder_multicore_Test", "..\DictionaryOrder_multicore_Test\DictionaryOrder_multicore_Test.csproj", "{1233EFB2-3107-48EC-8989-6B8C72E45969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryOrder_multicore_Test", "..\DictionaryOrder_multicore_Test\DictionaryOrder_multicore_Test.csproj", "{1233EFB2-3107-48EC-8989-6B8C72E45969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "..\Benchmark\Benchmark.csproj", "{067FCB94-2DF1-415B-B96E-CCB3E01723A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1233EFB2-3107-48EC-8989-6B8C72E45969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1233EFB2-3107-48EC-8989-6B8C72E45969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1233EFB2-3107-48EC-8989-6B8C72E45969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067FCB94-2DF1-415B-B96E-CCB3E01723A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067FCB94-2DF1-415B-B96E-CCB3E01723A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067FCB94-2DF1-415B-B96E-CCB3E01723A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067FCB94-2DF1-415B-B96E-CCB3E01723A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
